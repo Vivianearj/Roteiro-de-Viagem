@@ -24,5 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto voltado para simplificar o roteiro de viagem. Podemos adicionar a atividade com data e horas, e após a conclusão da atividade, temos a funcionalidade de marcar atividade concluída.
  
-- [Acesse o projeto finalizado, online](https://vivianearj.github.io/Lading-Page/)
 
